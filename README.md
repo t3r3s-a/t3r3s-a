@@ -8,3 +8,8 @@
 ### 🧠 Languages & Tools
 💡 **Main:**  
 `C` • `Haskell`  
+
+---
+
+### 🌍 Where to Find Me
+📧 [Email](mailto:teresateixeira026@gmail.com)
