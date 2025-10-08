@@ -1,4 +1,4 @@
-# Hi I'm Teresa👋
+# 👋 Hi there! I'm Teresa 
 
-🎓 Estudante de **Engenharia Informática** @ **Universidade do Minho**  
-💻 Atualmente no **2.º ano**  
+🎓 Computer Engineering student @ **University of Minho**  
+💻 Currently in my **2nd year**  
