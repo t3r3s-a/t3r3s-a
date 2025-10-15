@@ -12,4 +12,5 @@
 ---
 
 ### 🌍 Where to Find Me
-📧 [Email](teresateixeira026@gmail.com)
+📧 [Email](mailto:teresateixeira026@gmail.com)
+
