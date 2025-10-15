@@ -3,6 +3,8 @@
 🎓 Computer Engineering student @ **University of Minho**  
 💻 Currently in my **2nd year**
 
+![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 ---
 
 ### 🧠 Languages & Tools
