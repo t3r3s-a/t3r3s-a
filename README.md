@@ -12,5 +12,5 @@
 ---
 
 ### 🌍 Where to Find Me
-📧 [Email](mailto:teresateixeira026@gmail.com)
+📧 [Send me an email](mailto:teresateixeira026@gmail.com) 
 
