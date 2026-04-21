@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="27172379" data-share-method="host" data-aspect-ratio="1.95122" data-width="100%"><a href="https://tenor.com/view/cats-lovely-gif-27172379">Cats Lovely GIF</a>from <a href="https://tenor.com/search/cats-gifs">Cats GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 # 👋🏽 Hi there! I'm Teresa 
 
 🎓 Computer Engineering student @ **University of Minho**  
