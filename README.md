@@ -1,31 +1,36 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3ec81079-fca1-41f2-b30f-880227b67dba" width="100%" alt="Studio Ghibli Cats Banner">
 
-# 👋🏽 Hi there! I'm Teresa 
-
-🎓 Computer Engineering student @ **University of Minho**  
-💻 Currently in my **2nd year**
-
----
-
-### 🧠 Languages & Tools
-
-
-💡 **Software & Logic:** 
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) 
-
-🌐 **Web Development:** 
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-🗄️ **Database:** 
-
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+   # 🌸 Hi there! I'm **Teresa**
+  
+  `Computer Engineering Student @ UM` • `2nd Year`
+</div>
 
 ---
 
-### 🌍 Where to Find Me
-📧 [Send me an email](mailto:teresateixeira026@gmail.com) 
+### 🌸 My Creative Stack
 
+#### 💡 Software & Logic
+![C](https://img.shields.io/badge/C-2D3436?style=for-the-badge&logo=c&logoColor=ffb7c5)
+![Haskell](https://img.shields.io/badge/Haskell-2D3436?style=for-the-badge&logo=haskell&logoColor=ffb7c5)
+
+#### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-2D3436?style=for-the-badge&logo=html5&logoColor=ffb7c5)
+![CSS3](https://img.shields.io/badge/CSS3-2D3436?style=for-the-badge&logo=css3&logoColor=ffb7c5)
+![JavaScript](https://img.shields.io/badge/JavaScript-2D3436?style=for-the-badge&logo=javascript&logoColor=ffb7c5)
+
+#### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-2D3436?style=for-the-badge&logo=mysql&logoColor=ffb7c5)
+
+
+
+---
+
+### 🌍 Let's Connect
+<div align="left">
+  <a href="mailto:teresateixeira026@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-ffb7c5?style=for-the-badge&logo=gmail&logoColor=2D3436" />
+  </a>
+</div>
+
+<br />
